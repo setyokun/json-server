@@ -1,4 +1,3 @@
-Test Setyokun
 # JSON Server [![Node.js CI](https://github.com/typicode/json-server/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/typicode/json-server/actions/workflows/node.js.yml)
 
 Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (seriously)
